@@ -1,2 +1,2 @@
-# node-imageutils
-A docker image with basic image manipulation utilities, such as ffmpeg, imagemagick
+# node-fileutils
+A docker image with basic file manipulation utilities, such as ffmpeg, imagemagick
