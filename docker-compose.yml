@@ -2,4 +2,4 @@ version: '3.8'
 services:
   app:
     build: .
-    image: node-fileutils
+    image: node-fileutils:20231119.1
